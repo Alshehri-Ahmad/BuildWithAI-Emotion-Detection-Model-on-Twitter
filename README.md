@@ -1,0 +1,2 @@
+# BuildWithAI-Emotion-Detection-Model-on-Twitter
+These tweets are related to COVID19 in some or the other way. This analysis has been done to analyse how the citizens of different countries and languages are dealing with the situation. The tweets have been collected, pre-processed, and then used for text mining and sentiment analysis. The results of the study concludes that while majority of the people throughout the world believed in the presence of this virus and taking a positive and hopeful approach, there are instances of fear, sadness and disgust exhibited worldwide.
